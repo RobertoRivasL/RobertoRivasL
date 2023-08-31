@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Im Roberto Rivas Lopez 👋
 
 I am a professional with more than 29 years of experience in business administration and management, with ten years of experience in the textile industry and nineteen years of experience in the Information Technology industry. My technical training and corporate experience allow me to have an intellectual and learning capacity that allows me to work under minimal supervision in pressure situations, in challenging and competitive environments. I am capable of identifying, correcting and making decisions when faced with problems, which makes me a responsible and adaptable person, with rapid absorption of new technologies. I excel at my partnership and teamwork, and have a command of computer programs. I am a Mechanical Engineer with a degree in Engineering Sciences, graduated from Industrial Civil Engineering and I am finishing a Fullstack Java Trainee Development Bootcamp.
 
@@ -18,6 +18,8 @@ I have experience in the following languages and tools:
 <img width="64" height="64" src="https://img.icons8.com/nolan/64/java-eclipse.png" alt="java-eclipse"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/intellij-idea.png" alt="intellij-idea"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
+
+Gitgub Stats
 
 <!--
 **RobertoRivasL/RobertoRivasL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
