@@ -9,9 +9,12 @@ I have experience in the following languages and tools:
 <img width="48" height="48" src="https://img.icons8.com/parakeet/48/css-filetype.png" alt="css-filetype"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 
-
-
+Boostrap Studio
+https://osbsoftware.com.br/upload/produto/bootstrapstudio-produto.png
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 <img width="16" height="16" src="https://img.icons8.com/office/16/java-eclipse.png" alt="java-eclipse"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/intellij-idea.png" alt="intellij-idea"/>
 
