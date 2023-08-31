@@ -26,8 +26,6 @@ I have experience in the following languages and tools:
 
 
 
-
-
 <!--
 **RobertoRivasL/RobertoRivasL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
