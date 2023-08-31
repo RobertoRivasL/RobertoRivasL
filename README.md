@@ -4,7 +4,7 @@ I am a professional with more than 29 years of experience in business administra
 
 I have experience in the following languages and tools:
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> : 
 <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/parakeet/48/css-filetype.png" alt="css-filetype"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap"/>
