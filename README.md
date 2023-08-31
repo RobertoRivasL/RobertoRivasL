@@ -16,11 +16,14 @@ I have experience in the following languages and tools:
 
 <a href="https://creativecommons.org/licenses/by-sa/4.0"/>:
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/webstorm.png" alt="webstorm"/>
 <img width="64" height="64" src="https://img.icons8.com/nolan/64/java-eclipse.png" alt="java-eclipse"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/intellij-idea.png" alt="intellij-idea"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertoRivaL&show_icons=true&theme=transparent)
+
+
+![RobertoRivasL GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertoRivaL&show_icons=true&theme=transparent)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/RobertoRivaL/github-readme-stats)
 
