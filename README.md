@@ -20,8 +20,7 @@ I have experience in the following languages and tools:
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/intellij-idea.png" alt="intellij-idea"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
 
-Gitgub Stats
-
+<a href=":  http://cl.linkedin.com/in/rrivasl/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Roberto Rivas Lopez" height="30" width="40" />linkedin</a>
 <!--
 **RobertoRivasL/RobertoRivasL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
