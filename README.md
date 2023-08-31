@@ -12,9 +12,9 @@ I have experience in the following languages and tools:
 <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 
-Boostrap Studio
-<img width="48" height="48" src="https://commons.wikimedia.org/wiki/File:Bootstrap_Studio_Logo.png"/>
-<a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+
+<img width="48" height="48" src="https://commons.wikimedia.org/wiki/Bootstrap_Studio_Logo.png"/>
+
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 <img width="16" height="16" src="https://img.icons8.com/office/16/java-eclipse.png" alt="java-eclipse"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/intellij-idea.png" alt="intellij-idea"/>
