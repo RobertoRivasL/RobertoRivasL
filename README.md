@@ -9,7 +9,7 @@ I have experience in the following languages and tools:
 <img width="48" height="48" src="https://img.icons8.com/parakeet/48/css-filetype.png" alt="css-filetype"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>:
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 
 
