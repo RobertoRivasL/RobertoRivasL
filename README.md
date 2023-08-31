@@ -1,9 +1,5 @@
 # _Hi there, Im Roberto Rivas Lopez_ 👋
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+>“La resiliencia es el arte de convertir el dolor en poder, de transformar las heridas en sabiduría, de no dejar que la adversidad te derrote, sino que te enseñe a ser más fuerte.”
 
 I am a professional with more than 29 years of experience in business administration and management, with ten years of experience in the textile industry and nineteen years of experience in the Information Technology industry. My technical training and corporate experience allow me to have an intellectual and learning capacity that allows me to work under minimal supervision in pressure situations, in challenging and competitive environments. I am capable of identifying, correcting and making decisions when faced with problems, which makes me a responsible and adaptable person, with rapid absorption of new technologies. I excel at my partnership and teamwork, and have a command of computer programs. I am a Mechanical Engineer with a degree in Engineering Sciences, graduated from Industrial Civil Engineering and I am finishing a Fullstack Java Trainee Development Bootcamp.
 
