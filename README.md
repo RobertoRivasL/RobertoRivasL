@@ -16,7 +16,7 @@ I have experience in the following languages and tools:
 <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>
 
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-<img width="50" height="50" src="https://img.icons8.com/ios/50/java-eclipse.png" alt="java-eclipse"/>
+<img width="64" height="64" src="https://img.icons8.com/nolan/64/java-eclipse.png" alt="java-eclipse"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/intellij-idea.png" alt="intellij-idea"/>
 
 
