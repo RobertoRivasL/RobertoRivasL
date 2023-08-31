@@ -22,10 +22,9 @@ I have experience in the following languages and tools:
 <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertoRivasL)](https://github.com/RobertoRivasL/github-readme-stats)
 
-![RobertoRivasL GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertoRivaL&show_icons=true&theme=transparent)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/RobertoRivaL/github-readme-stats)
 
 
 
