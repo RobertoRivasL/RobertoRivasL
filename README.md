@@ -7,12 +7,12 @@ I have experience in the following languages and tools:
 <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
 <img width="50" height="50" src="https://img.icons8.com/ios/50/javascript--v1.png" alt="javascript--v1"/>
 <img width="26" height="26" src="https://img.icons8.com/metro/26/css.png" alt="css"/>
-https://camo.githubusercontent.com/f8fd97be7f1283e680fc44af2b13301ada252637ac0f73596b28c50229d71637/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f626f6f7473747261702e706e67
+<img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
 
 
 
-
+<img width="16" height="16" src="https://img.icons8.com/office/16/java-eclipse.png" alt="java-eclipse"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/intellij-idea.png" alt="intellij-idea"/>
 
 
