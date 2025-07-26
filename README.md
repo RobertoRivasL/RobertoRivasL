@@ -1,48 +1,92 @@
-# _Hi there, Im Roberto Rivas Lopez_ 👋
->“La resiliencia es el arte de convertir el dolor en poder, de transformar las heridas en sabiduría, de no dejar que la adversidad te derrote, sino que te enseñe a ser más fuerte.”
+# 👋 Hola, soy Roberto Rivas
 
-I am a professional with more than 29 years of experience in business administration and management, with ten years of experience in the textile industry and nineteen years of experience in the Information Technology industry. My technical training and corporate experience allow me to have an intellectual and learning capacity that allows me to work under minimal supervision in pressure situations, in challenging and competitive environments. I am capable of identifying, correcting and making decisions when faced with problems, which makes me a responsible and adaptable person, with rapid absorption of new technologies. I excel at my partnership and teamwork, and have a command of computer programs. I am a Mechanical Engineer with a degree in Engineering Sciences, graduated from Industrial Civil Engineering and I am finishing a Fullstack Java Trainee Development Bootcamp.
+![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Roberto%20Rivas-blue?logo=linkedin&style=flat-square&link=https://linkedin.com/in/robertorivasl)
+![GitHub Badge](https://img.shields.io/badge/GitHub-RobertoRivasL-black?logo=github&style=flat-square&link=https://github.com/RobertoRivasL)
+![Email Badge](https://img.shields.io/badge/Gmail-roberto.rivas.lagos%40gmail.com-red?logo=gmail&style=flat-square)
 
-I have experience in the following languages and tools:
+---
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> : 
-<img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/parakeet/48/css-filetype.png" alt="css-filetype"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>:
-<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/ultraviolet/40/mysql.png" alt="mysql"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
-<img width="48" height="48" src="https://img.icons8.com/arcade/64/github.png" alt="github"/>
+### 🚀 Fullstack Java Trainee | DevOps Specialist | QA Automation Student  
+### 💼 Buscando nuevas oportunidades profesionales en tecnología
 
+---
 
-<a href="https://creativecommons.org/licenses/by-sa/4.0"/>:
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/webstorm.png" alt="webstorm"/>
-<img width="64" height="64" src="https://img.icons8.com/nolan/64/java-eclipse.png" alt="java-eclipse"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/intellij-idea.png" alt="intellij-idea"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/trello.png" alt="trello"/>
-<img width="48" height="48" src="https://img.icons8.com/nolan/64/miro.png" alt="miro"/>
+Soy un **profesional con más de 30 años de experiencia en gestión de empresas**, y actualmente me reinvento en el mundo de la tecnología como:
 
+- 👨‍💻 **Desarrollador Fullstack Java (Trainee)**
+- ☁️ **Especialista en DevOps y herramientas CI/CD**
+- 🧪 **Estudiante de Automatización de Pruebas** con enfoque en TDD, Selenium y JUnit
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertoRivasL)](https://github.com/RobertoRivasL/github-readme-stats)
+Estoy buscando oportunidades donde pueda **aportar con disciplina, responsabilidad y una mentalidad de mejora continua**, integrándome a equipos técnicos donde pueda **aprender, colaborar y generar impacto real**.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoRivasL&langs_count=8)
+---
 
+## 🧰 Tech Stack
 
-<!--
-**RobertoRivasL/RobertoRivasL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Categoría        | Tecnologías                                                            |
+|------------------|-----------------------------------------------------------------------|
+| **Backend**      | ![Java](https://img.shields.io/badge/Java-11%2F17-blue?logo=java) Spring Boot, JPA/Hibernate |
+| **Frontend**     | HTML5, CSS3, JavaScript                                               |
+| **Testing**      | JUnit 4/5, Mockito, Selenium, Cucumber, Jacoco                        |
+| **DevOps**       | Git, GitHub Actions, Jenkins, Docker, Nexus                           |
+| **BDD/TDD**      | Red-Green-Refactor, Page Object Model, Feature Files                  |
+| **Base de Datos**| MySQL, PostgreSQL, H2                                                 |
+| **IDE & Tools**  | IntelliJ IDEA, VS Code, Postman                                       |
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Actualmente aprendiendo
+
+- 🔸 Selenium avanzado & automatización de pruebas complejas  
+- 🔸 Integración continua y despliegue con GitHub Actions  
+- 🔸 Mejorando habilidades en Spring Boot y API REST  
+- 🔸 Prácticas de TDD y BDD en proyectos reales
+
+---
+
+## 💼 ¿Qué ofrezco?
+
+✅ Responsabilidad y compromiso  
+✅ Capacidad de adaptación a nuevos entornos tecnológicos  
+✅ Experiencia liderando personas y gestionando operaciones  
+✅ Visión global de procesos, con mirada técnica y estratégica  
+✅ Alta motivación por el aprendizaje continuo
+
+---
+
+## 📂 Proyectos Relevantes
+
+- 🚀 **SGPR / SGP20**: Sistema de Gestión de Profesionales con versiones sucesivas aplicando buenas prácticas
+- 🍔 **FoodDeliveryX**: Caso de mocking avanzado con Mockito para simular servicios externos
+- 📦 **SmartOrders**: Suite de pruebas robusta para servicios de pedidos con cobertura y parametrización
+- 🎓 **EduCode**: Sistema de gestión de cursos con lógica implementada bajo metodología TDD
+
+> Puedes ver todos mis proyectos en este repositorio: [github.com/RobertoRivasL](https://github.com/RobertoRivasL)
+
+---
+
+## 🤝 Estoy disponible para:
+
+- 🔹 Puestos trainee o junior en desarrollo backend Java
+- 🔹 QA y automatización de pruebas con Selenium y JUnit
+- 🔹 Soporte en pipelines CI/CD y herramientas DevOps
+- 🔹 Participación en proyectos de aprendizaje o semilleros tecnológicos
+
+---
+
+## 📊 GitHub Stats
+
+![RobertoRivasL GitHub Stats](https://github-readme-stats.vercel.app/api?username=RobertoRivasL&show_icons=true&hide_title=true&count_private=true&theme=github_dark)
+
+---
+
+## 📫 Contacto
+
+- 💼 [LinkedIn](https://linkedin.com/in/robertorivasl)
+- 💌 Correo: **roberto.rivas.lagos@gmail.com**
+- 🌍 GitHub: [github.com/RobertoRivasL](https://github.com/RobertoRivasL)
+
+---
+
+> 💡 *“Nunca es tarde para aprender, pero siempre es urgente adaptarse.”* — Roberto Rivas  
+> 🎯 *Buscando formar parte de un equipo que valore la experiencia, la ética y la pasión por la tecnología.*
