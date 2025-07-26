@@ -83,7 +83,7 @@ Estoy buscando oportunidades donde pueda **aportar con disciplina, responsabilid
 ## 📫 Contacto
 
 - 💼 [LinkedIn](https://linkedin.com/in/robertorivasl)
-- 💌 Correo: **roberto.rivas.lagos@gmail.com**
+- 💌 Correo: **roberto.rivas.l@mail.pucv.cl**
 - 🌍 GitHub: [github.com/RobertoRivasL](https://github.com/RobertoRivasL)
 
 ---
