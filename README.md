@@ -1,6 +1,6 @@
 # 👋 Hola, soy Roberto Rivas
 
-![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Roberto%20Rivas-blue?logo=linkedin&style=flat-square&link=https://linkedin.com/in/robertorivasl)
+![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Roberto%20Rivas-blue?logo=linkedin&style=flat-square&link=http://[((http://www.linkedin.com/in/rrivasl)))
 ![GitHub Badge](https://img.shields.io/badge/GitHub-RobertoRivasL-black?logo=github&style=flat-square&link=https://github.com/RobertoRivasL)
 ![Email Badge](https://img.shields.io/badge/Gmail-roberto.rivas.l%40mail.pucv.cl-red?logo=gmail&style=flat-square)
 
