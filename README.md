@@ -2,7 +2,7 @@
 
 ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Roberto%20Rivas-blue?logo=linkedin&style=flat-square&link=https://linkedin.com/in/robertorivasl)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-RobertoRivasL-black?logo=github&style=flat-square&link=https://github.com/RobertoRivasL)
-![Email Badge](https://img.shields.io/badge/Gmail-roberto.rivas.lagos%40gmail.com-red?logo=gmail&style=flat-square)
+![Email Badge](https://img.shields.io/badge/Gmail-roberto.rivas.l%40mail.pucv.cl-red?logo=gmail&style=flat-square)
 
 ---
 
